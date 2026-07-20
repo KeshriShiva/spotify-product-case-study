@@ -1,0 +1,7 @@
+## ⚠️ Risks & Mitigation
+
+| Risk                  | Mitigation               |
+|-----------------------|--------------------------|
+| Wrong Recommendations | User Feedback Loop       |
+| Privacy Concerns      | Opt-in Personalization   |
+| Higher AI Cost        | Cache Frequent Prompts   |
