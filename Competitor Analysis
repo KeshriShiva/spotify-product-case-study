@@ -5,3 +5,13 @@ YouTube Music	                           Massive catalog
 Amazon Music	                           Alexa ecosystem
 JioSaavn	                               Regional content
 Gaana                                    Indian audience
+
+| Feature                     | Spotify      | Apple Music | YouTube Music | Amazon Music | JioSaavn |
+|-----------------------------|--------------|-------------|----------------|---------------|-----------|
+| Personalized Recommendations | ✅          | ✅          | ✅             | ✅            | ✅        |
+| Podcasts                    | ✅          | ✅          | ❌             | ✅            | ❌        |
+| AI Music Discovery          | ⚠️ Limited  | ❌          | ⚠️ Basic       | ❌            | ❌        |
+| Lyrics                      | ✅          | ✅          | ✅             | ✅            | ✅        |
+| Offline Mode                | Premium     | Premium     | Premium        | Premium       | Premium   |
+| Regional Content            | Good        | Moderate    | Good           | Moderate      | Excellent |
+| Social Sharing              | ✅          | Limited     | Limited        | ❌            | ❌        |
