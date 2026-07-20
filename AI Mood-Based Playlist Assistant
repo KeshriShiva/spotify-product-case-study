@@ -1,0 +1,23 @@
+Problem:
+
+Users often know how they feel but don't know what to search for.
+
+Solution:
+
+Allow users to describe their mood in natural language.
+
+Examples:-
+
+"Need music while coding."
+
+"Relax after work."
+
+"Workout motivation."
+
+Spotify generates personalized playlists using:
+
+Listening history
+Time of day
+Weather (optional)
+Activity
+Favorite artists
