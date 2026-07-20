@@ -1,25 +1,28 @@
-Open Spotify
+                 USER JOURNEY
 
-↓
-
-Search Music
-
-↓
-
-Play Song
-
-↓
-
-Like Song
-
-↓
-
-Create Playlist
-
-↓
-
-Share
-
-↓
-
-Return
+       Open Spotify
+             │
+             ▼
+      Browse Home Feed
+             │
+             ▼
+ Search / Discover Music
+             │
+             ▼
+      Select a Song
+             │
+             ▼
+     Listen to Music
+             │
+      ┌──────┴──────┐
+      ▼             ▼
+ Like Song     Skip Song
+      │             │
+      ▼             ▼
+ Save Playlist   Search Again
+      │
+      ▼
+ Receive Recommendations
+      │
+      ▼
+ Return to Spotify
